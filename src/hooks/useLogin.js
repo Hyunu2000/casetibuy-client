@@ -15,7 +15,7 @@ export function useLogin() {
 
   const usernameRef = useRef(null);
   const passwordRef = useRef(null);
-  const navigate = useNavigate(); // ✅ 추가된 부분
+  const navigate = useNavigate();
 
   const handleLogin = async (e) => {
     e.preventDefault();
