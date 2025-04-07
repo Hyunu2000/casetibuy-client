@@ -24,7 +24,7 @@ export function useLogin() {
     }
 
     try {
-      const response = await axios.post("http://54.180.155.70:9000/member/login", {
+      const response = await axios.post("http://43.200.171.0:9000/member/login", {
         // axios.post 사용
         id: username,
         pwd: password,

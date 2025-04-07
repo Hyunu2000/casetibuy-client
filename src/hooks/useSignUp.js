@@ -59,7 +59,7 @@ export function useSignUp() {
         }
 
         try {
-            const response = await axios.post('http://54.180.155.70:9000/member/signup', {
+            const response = await axios.post('http://43.200.171.0:9000/member/signup', {
                 name: name,
                 birthdate: birthdate,
                 email: email,
@@ -95,7 +95,7 @@ export function useSignUp() {
         setIsIdAvailable(false);
 
         try {
-            const response = await axios.post('http://54.180.155.70:9000/member/idcheck', {
+            const response = await axios.post('http://43.200.171.0:9000/member/idcheck', {
                 id: username
             });
 

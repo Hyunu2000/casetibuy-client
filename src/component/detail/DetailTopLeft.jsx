@@ -44,7 +44,7 @@ export default function DetailTopLeft({ detail, filteredImages }) {
       <div className="flex flex-col gap-17">
         <div className="relative flex w-full">
           <img
-            src={`http://54.180.155.70:9000/${filteredImages[0]}`}
+            src={`http://43.200.171.0:9000/${filteredImages[0]}`}
             alt=""
             className="w-[83.2%] h-auto object-cover justify-center mx-auto"
           />
@@ -53,7 +53,7 @@ export default function DetailTopLeft({ detail, filteredImages }) {
           {
             filteredImages[1] ? (
               <img
-                src={`http://54.180.155.70:9000/${filteredImages[1]}`}
+                src={`http://43.200.171.0:9000/${filteredImages[1]}`}
                 alt=""
                 className="object-cover w-[98%] h-auto"
               />

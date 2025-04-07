@@ -37,7 +37,7 @@ export default function ProductList({ productList, layoutType }) {
               {/* 상품 이미지 */}
               <div className="w-full max-w-sm mx-auto absoulte">
                 <img
-                  src={`http://54.180.155.70:9000/${product.repImage}`}
+                  src={`http://43.200.171.0:9000/${product.repImage}`}
                   alt={product.name}
                   className="object-cover w-full h-auto align-middle"
                 />

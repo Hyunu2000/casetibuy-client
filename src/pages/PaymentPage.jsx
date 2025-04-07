@@ -25,7 +25,7 @@ export default function PaymentPage() {
         if (isLoggedIn) {
             getCartList();
             const token = localStorage.getItem("token");
-            fetch("http://54.180.155.70:9000/member/userinfo", {
+            fetch("http://43.200.171.0:9000/member/userinfo", {
                 method: "GET",
                 headers: {
                     "Content-Type": "application/json",
@@ -116,7 +116,7 @@ export default function PaymentPage() {
 
         try {
             const response = await axios.post(
-                "http://54.180.155.70:9000/order/checkout",
+                "http://43.200.171.0:9000/order/checkout",
                 orderData
             );
             if (response.status === 201) {
@@ -138,7 +138,7 @@ export default function PaymentPage() {
     const handleKakaoPayPayment = async (orderData) => {
         const id = localStorage.getItem("user_id");
         try {
-            const res = await axios.post("http://54.180.155.70:9000/payment/qr", {
+            const res = await axios.post("http://43.200.171.0:9000/payment/qr", {
                 id: id,
                 item_name: "테스트 상품",
                 total_amount: totalPrice,
@@ -161,7 +161,7 @@ export default function PaymentPage() {
         try {
             const finalOrderData = { ...orderData, tid };
             const orderResponse = await axios.post(
-                "http://54.180.155.70:9000/order/checkout",
+                "http://43.200.171.0:9000/order/checkout",
                 finalOrderData
             );
             if (orderResponse.status === 201) {
@@ -184,7 +184,7 @@ export default function PaymentPage() {
         const tid = localStorage.getItem("tid");
         const totalPrice = localStorage.getItem("total_price");
         try {
-            const res = await axios.post("http://54.180.155.70:9000/payment/approve", {
+            const res = await axios.post("http://43.200.171.0:9000/payment/approve", {
                 pg_token: pgToken,
                 tid,
                 id,

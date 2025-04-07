@@ -29,7 +29,7 @@ export default function OrderSuccessPage() {
             const partner_order_id = localStorage.getItem("partner_order_id");
 
             axios
-                .post("http://54.180.155.70:9000/payment/approve", {
+                .post("http://43.200.171.0:9000/payment/approve", {
                     pg_token,
                     tid,
                     id: user_id,
@@ -42,7 +42,7 @@ export default function OrderSuccessPage() {
                     if (storedOrder) {
                         const orderObj = JSON.parse(storedOrder);
                         axios
-                            .post("http://54.180.155.70:9000/order/checkout", orderObj)
+                            .post("http://43.200.171.0:9000/order/checkout", orderObj)
                             .then((orderRes) => {
                                 localStorage.removeItem("tid");
                                 localStorage.removeItem("total_price");
