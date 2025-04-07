@@ -1,0 +1,17 @@
+{
+    "layoutIcons": [
+      {
+        "type": 2,
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20' fill='currentColor' className='w-20 h-20'><path fill-rule='evenodd' clip-rule='evenodd' d='M3 3H17V13H3V3ZM1 15V1H19V15H1ZM1 19H19V17H1V19Z'/></svg>"
+      },
+      {
+        "type": 4,
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20' fill='currentColor' className='w-20 h-20'><path fill-rule='evenodd' clip-rule='evenodd' d='M3 3H6.875V17H3V3ZM1 19V1H8.875V19H1ZM13.125 3H17V17H13.125V3ZM11.125 19V1H19V19H11.125Z'/></svg>"
+      },
+      {
+        "type": 6,
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20' fill='currentColor' className='w-20 h-20'><path fill-rule='evenodd' clip-rule='evenodd' d='M3 3H7.30769V7.30769H3V3ZM1 9.30769V1H9.30769V9.30769H1ZM3 12.6923H7.30769V17H3V12.6923ZM1 19V10.6923H9.30769V19H1ZM17.0001 3H12.6924V7.30769H17.0001V3ZM10.6924 1V9.30769H19.0001V1H10.6924ZM12.6924 12.6923H17.0001V17H12.6924V12.6923ZM10.6924 19V10.6923H19.0001V19H10.6924Z'/></svg>"
+      }
+    ]
+  }
+  

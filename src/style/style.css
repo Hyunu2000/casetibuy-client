@@ -1,0 +1,88 @@
+/* ****************************************
+
+*   title : header
+*   author : 윤지혜
+*   final date : 2025/02/05
+
+******************************************* */
+
+.header-outer {
+  width: 100%;
+  background-color: var(--color-primary);
+  border: 1px solid red;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 66px;
+  padding: 0 32px;
+  border: 1px solid blue;
+}
+
+.header-left,
+.header-right {
+  display: flex;
+  gap: 20px;
+}
+
+.header-logo {
+  width: 120px;
+  height: 40px;
+}
+
+.header_img {
+  margin-top: -66px;
+}
+
+/* ****************************************
+  
+  *   title : footer
+  *   author : 윤지혜
+  *   final date : 2025/02/07
+  
+  ******************************************* */
+
+.sns {
+  width: 30px;
+  height: 30px;
+  background-color: var(--color-white);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sns img {
+  width: 20px;
+  height: 20px;
+}
+
+/* ****************************************
+  
+  *   title : Home
+  *   author : 윤지혜
+  *   final date : 2025/02/09
+  
+  ******************************************* */
+
+/* Home 배경 색상 */
+.yellow {
+  background: #ffd700;
+}
+.blue {
+  background: #1e50a2;
+  color: white;
+}
+.pink {
+  background: #ffb6c1;
+}
+.green {
+  background: #008000;
+  color: white;
+}
+.gray {
+  background: lightgray;
+}
+.orange {
+  background: orange;
+}

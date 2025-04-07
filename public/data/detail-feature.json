@@ -1,0 +1,459 @@
+{
+    "bounce": {
+        "cname": "바운스 케이스",
+        "price": 115000,
+        "protective": "100%",
+        "weight": "75%",
+        "colorImg": [
+            {
+                "black": [
+                    "/images/iphone16pro/common/iphone16p_common_side_case_bounce_color_black.png",
+                    "/images/iphone16pro/common/iphone16p_common_back_case_bounce_color_black.jpg"
+                ],
+                "pink": [
+                    "/images/iphone16pro/common/iphone16p_common_side_case_bounce_color_pink.png",
+                    "/images/iphone16pro/common/iphone16p_common_back_case_bounce_color_pink.jpg"
+                ],
+                "babyblue": [
+                    "/images/iphone16pro/common/iphone16p_common_side_case_bounce_color_babyblue.png",
+                    "/images/iphone16pro/common/iphone16p_common_back_case_bounce_color_babyblue.jpg"
+                ]
+            }
+        ],
+        "feature": [
+            {
+                "image": "/images/detail/bounce/feature/1.png",
+                "desc": "바운스 코너"
+            },
+            {
+                "image": "/images/detail/bounce/feature/2.png",
+                "desc": "6.5m\n낙하 테스트 통과"
+            },
+            {
+                "image": "/images/detail/bounce/feature/3.png",
+                "desc": "6x\nMIL-STD-810G"
+            },
+            {
+                "image": "/images/detail/bounce/feature/4.png",
+                "desc": "카메라 컨트롤 버튼에\n부드러운 액세스"
+            },
+            {
+                "image": "/images/detail/bounce/feature/5.png",
+                "desc": "TesseLock™\n소재"
+            },
+            {
+                "image": "/images/detail/bounce/feature/6.png",
+                "desc": "무선 충전 및\n맥세이프 호환"
+            }
+        ],
+        "info": [
+            {
+                "image": "/images/detail/bounce/info/1.png",
+                "desc1": "바운스 케이스",
+                "desc2": "2023년 뉴욕 제품 디자인\n어워드에서 금상을 수상한\n케이스를 소개합니다!",
+                "desc3": "현수교에서 영감받은 바운스 코너 디자인.\nTesseLock™이 탑재되어, 6.5m 낙하\n테스트를 통과해, 미 군사 등급 6배에\n달하는 보호력을 제공합니다."
+            },
+            {
+                "image": "/images/detail/bounce/info/2.png",
+                "desc1": "강력한 보호력",
+                "desc2": "더 얇게, 더 가볍게, 여전히 강력하게",
+                "desc3": "5% 더 얇아진 디자인, 11% 더 가벼워진 무게, 그러나 여전히 튼튼한 설계.\n견고한 보호 기능은 물론, 슬림하고 스타일리시한 디자인을 완성합니다."
+            },
+            {
+                "image": "/images/detail/bounce/info/3.png",
+                "desc1": "완벽한 맞춤 디자인",
+                "desc2": "나만을 위한\n하나뿐인 케이스",
+                "desc3": "바운스 케이스로 표현하는\n나만의 색깔.\n물론, 일상 속 모험에서도\n언제나 안전하게 함께하세요."
+            }
+        ]
+    },
+    "ring": {
+        "cname": "맥세이프 호환 임팩트 링 스탠드 케이스",
+        "price": 122000,
+        "protective": "50%",
+        "weight": "75%",
+        "colorImg": [
+            {
+                "black": [
+                    "/images/iphone16pro/common/iphone16p_common_side_case_ring_color_black.png",
+                    "/images/iphone16pro/common/iphone16p_common_back_case_ring_color_black.jpg"
+                ],
+                "skyblue": [
+                    "/images/iphone16pro/common/iphone16p_common_side_case_ring_color_skyblue.png",
+                    "/images/iphone16pro/common/iphone16p_common_back_case_ring_color_skyblue.jpg"
+                ],
+                "purple": [
+                    "/images/iphone16pro/common/iphone16p_common_side_case_ring_color_purple.png",
+                    "/images/iphone16pro/common/iphone16p_common_back_case_ring_color_purple.jpg"
+                ]
+            }
+        ],
+
+        "feature": [
+            {
+                "image": "/images/detail/ring/feature/1.png",
+                "desc": "스탠드가 내장된\n빌트인 카메라 링"
+            },
+            {
+                "image": "/images/detail/ring/feature/2.png",
+                "desc": "2m\n낙하 테스트"
+            },
+            {
+                "image": "/images/detail/ring/feature/3.png",
+                "desc": "3x\nMIL-STD-810G"
+            },
+            {
+                "image": "/images/detail/ring/feature/4.png",
+                "desc": "자유로운 각도 조절\n(0° - 150°)"
+            },
+            {
+                "image": "/images/detail/ring/feature/5.svg",
+                "desc": "카메라 컨트롤 버튼에\n부드러운 액세스"
+            },
+            {
+                "image": "/images/detail/ring/feature/6.png",
+                "desc": "무선 충전 및\n맥세이프 호환"
+            }
+        ],
+        "info": [
+            {
+                "image": "/images/detail/ring/info/1.mp4",
+                "desc1": "임팩트 링 스탠드",
+                "desc2": "보호력,\n혁신을 만나 새 창을 열다.",
+                "desc3": "1,300 백만개 이상 판매된 베스트셀러 임팩트 케이스에 혁신적인 스탠드 기능이 더해졌습니다.\n영상을 시청할 때 자유로운 양손을 즐겨보세요."
+            },
+            {
+                "image": "/images/detail/ring/info/2.mp4",
+                "desc1": "혁신적인 디자인",
+                "desc2": "군더더기 없는\n아름다운 기능적 디테일",
+                "desc3": "힌지 디자인은 나사 없이 카메라 링에\n빌트인되어, 150°까지 자유로운 각도\n조절과, 최대의 내구성과 강도,\n견고함을 자랑합니다."
+            },
+            {
+                "image": "/images/detail/ring/info/3.png",
+                "desc1": "보호력",
+                "desc2": "증명된 보호력",
+                "desc3": "EcoShock™ 충격 흡수 소재가 적용되어,\n미 군사 규격 3배에 달하는 내구성과\n2m 낙하 보호력 제공"
+            },
+            {
+                "image": "/images/detail/ring/info/4.png",
+                "desc1": "액세서리",
+                "desc2": "스트랩 완벽 호환!",
+                "desc3": "스트랩 전용 소켓이 더해져 한 단계 더 업그레이드된 케이스"
+            }
+        ]
+    },
+    "mimpact": {
+        "cname": "맥세이프 호환 임팩트 케이스",
+        "price": 101000,
+        "protective": "50%",
+        "weight": "50%",
+        "colorImg": [
+            {
+                "black": [
+                    "/images/iphone16pro/common/iphone16p_common_side_case_mimpact_color_black.png",
+                    "/images/iphone16pro/common/iphone16p_common_back_case_mimpact_color_black.jpg"
+                ],
+                "skyblue": [
+                    "/images/iphone16pro/common/iphone16p_common_side_case_mimpact_color_skyblue.png",
+                    "/images/iphone16pro/common/iphone16p_common_back_case_mimpact_color_skyblue.jpg"
+                ],
+                "purple": [
+                    "/images/iphone16pro/common/iphone16p_common_side_case_mimpact_color_purple.png",
+                    "/images/iphone16pro/common/iphone16p_common_back_case_mimpact_color_purple.jpg"
+                ]
+            }
+        ],
+
+        "feature": [
+            {
+                "image": "/images/detail/impact/feature/1.png",
+                "desc": "EcoShock™\n충격 흡수 소재"
+            },
+            {
+                "image": "/images/detail/impact/feature/2.png",
+                "desc": "2.5m\n낙하 테스트 통과"
+            },
+            {
+                "image": "/images/detail/impact/feature/3.png",
+                "desc": "4x\nMIL-STD-810G"
+            },
+            {
+                "image": "/images/detail/impact/feature/4.png",
+                "desc": "손쉬운 스트랩 착용을\n위한 전용 소켓"
+            },
+            {
+                "image": "/images/detail/impact/feature/5.svg",
+                "desc": "카메라 컨트롤 버튼에\n부드러운 액세스"
+            },
+            {
+                "image": "/images/detail/impact/feature/mimpact6.png",
+                "desc": "무선 충전 및\n맥세이프 호환"
+            }
+        ],
+        "info": [
+            {
+                "image": "/images/detail/impact/info/1.mp4",
+                "desc1": "임팩트 케이스",
+                "desc2": "일상의 보호를 위한 가장\n완벽한 선택지",
+                "desc3": "1300만 개 이상 판매 기록을 달성한\n케이스티파이의 베스트셀러!"
+            },
+            {
+                "image": "/images/detail/impact/info/2.png",
+                "desc1": "강력한 보호력",
+                "desc2": "언제든지 안심할 수 있도록",
+                "desc3": "EcoShock™ 충격 흡수 소재가 적용되어,\n미 군사 규격 4배에 달하는 내구성과 2.5m 낙하 보호력 제공"
+            },
+            {
+                "image": "/images/detail/impact/info/3.png",
+                "desc1": "액세서리 매치",
+                "desc2": "스트랩 완벽 호환!",
+                "desc3": "스트랩 전용 소켓이 더해진 케이스로\n다양한 스트랩을 즐겨보세요."
+            }
+        ]
+    },
+    "mirror": {
+        "cname": "맥세이프 호환 미러 케이스",
+        "price": 101000,
+        "protective": "25%",
+        "weight": "50%",
+        "colorImg": [
+            {
+                "black": [
+                    "/images/iphone16pro/common/iphone16p_common_side_case_mirror_color_black.png",
+                    "/images/iphone16pro/common/iphone16p_common_back_case_mirror_color_black.jpg"
+                ],
+                "silver": [
+                    "/images/iphone16pro/common/iphone16p_common_side_case_mirror_color_silver.png",
+                    "/images/iphone16pro/common/iphone16p_common_back_case_mirror_color_silver.jpg"
+                ]
+            }
+        ],
+        "feature": [
+            {
+                "image": "/images/detail/mirror/feature/1.png",
+                "desc": "1.5m 낙하\n테스트 통과"
+            },
+            {
+                "image": "/images/detail/mirror/feature/2.png",
+                "desc": "1x\nMIL-STD-810G"
+            },
+            {
+                "image": "/images/detail/mirror/feature/3.png",
+                "desc": "손쉬운 스트랩 착용을\n위한 전용 소켓"
+            },
+            {
+                "image": "/images/detail/mirror/feature/4.png",
+                "desc": "2가지 기능의\n테크 액세서리"
+            },
+            {
+                "image": "/images/detail/mirror/feature/5.svg",
+                "desc": "카메라 컨트롤 버튼에\n부드러운 액세스"
+            },
+            {
+                "image": "/images/detail/mirror/feature/6.png",
+                "desc": "무선 충전 및\n맥세이프 호환"
+            }
+        ],
+        "info": [
+            {
+                "image": "/images/detail/mirror/info/1.png",
+                "desc1": "미러 케이스",
+                "desc2": "진정한 나를 비추는 케이스",
+                "desc3": "거울로 사용할 수 있는 폰케이스.\n밖에서도 여러분의 모습이 완벽할 수 있도록\n항상 확인해 보세요."
+            },
+            {
+                "image": "/images/detail/mirror/info/2.png",
+                "desc1": "강력한 보호력",
+                "desc2": "보호력을 위한 디자인",
+                "desc3": "스크린과 카메라 렌즈 보호를 위해\n높아진 베젤 디자인으로 미군사 규격\n보호력을 탑재했음은 물론, 1.5m 높이\n낙하 테스트까지 끄떡없죠."
+            },
+            {
+                "image": "/images/detail/mirror/info/3.png",
+                "desc1": "완벽한 맞춤 디자인",
+                "desc2": "거울 속의 진정한 나",
+                "desc3": "미러 케이스로 비추는 나만의 색깔. 여러분의 라이프 스타일에 맞게 완성된 디자인은 물론\n언제나 강력한 보호력과 함께 할 수 있도록 제작되었습니다."
+            },
+            {
+                "image": "/images/detail/mirror/info/4.png",
+                "desc1": "액세서리 매치",
+                "desc2": "스트랩 완벽 호환!",
+                "desc3": "스트랩 전용 소켓이 더해진 케이스로\n다양한 스트랩을 즐겨보세요."
+            }
+        ]
+    },
+    "impact": {
+        "cname": "임팩트 케이스",
+        "price": 93000,
+        "protective": "50%",
+        "weight": "50%",
+        "colorImg": [
+            {
+                "black": [
+                    "/images/iphone16pro/common/iphone16p_common_side_case_impact_color_black.png",
+                    "/images/iphone16pro/common/iphone16p_common_back_case_impact_color_black.jpg"
+                ],
+                "skyblue": [
+                    "/images/iphone16pro/common/iphone16p_common_side_case_impact_color_skyblue.png",
+                    "/images/iphone16pro/common/iphone16p_common_back_case_impact_color_skyblue.jpg"
+                ],
+                "purple": [
+                    "/images/iphone16pro/common/iphone16p_common_side_case_impact_color_purple.png",
+                    "/images/iphone16pro/common/iphone16p_common_back_case_impact_color_purple.jpg"
+                ]
+            }
+        ],
+
+        "feature": [
+            {
+                "image": "/images/detail/impact/feature/1.png",
+                "desc": "EcoShock™\n충격 흡수 소재"
+            },
+            {
+                "image": "/images/detail/impact/feature/2.png",
+                "desc": "2.5m\n낙하 테스트 통과"
+            },
+            {
+                "image": "/images/detail/impact/feature/3.png",
+                "desc": "4x\nMIL-STD-810G"
+            },
+            {
+                "image": "/images/detail/impact/feature/4.png",
+                "desc": "손쉬운 스트랩\n착용을 위한 전용 소켓"
+            },
+            {
+                "image": "/images/detail/impact/feature/5.svg",
+                "desc": "카메라 컨트롤 버튼에\n부드러운 액세스"
+            },
+            {
+                "image": "/images/detail/impact/feature/6.png",
+                "desc": "무선 충전 호환"
+            }
+        ],
+        "info": [
+            {
+                "image": "/images/detail/impact/info/1.mp4",
+                "desc1": "임팩트 케이스",
+                "desc2": "일상의 보호를 위한 가장\n완벽한 선택지",
+                "desc3": "1300만 개 이상 판매 기록을 달성한\n케이스티파이의 베스트셀러!"
+            },
+            {
+                "image": "/images/detail/impact/info/2.png",
+                "desc1": "강력한 보호력",
+                "desc2": "언제든지 안심할 수 있도록",
+                "desc3": "EcoShock™ 충격 흡수 소재가 적용되어,\n미 군사 규격 4배에 달하는 내구성과 2.5m 낙하 보호력 제공"
+            },
+            {
+                "image": "/images/detail/impact/info/3.png",
+                "desc1": "액세서리 매치",
+                "desc2": "스트랩 완벽 호환!",
+                "desc3": "스트랩 전용 소켓이 더해진 케이스로\n다양한 스트랩을 즐겨보세요."
+            }
+        ]
+    },
+    "podbounce": {
+        "cname": "바운스 케이스",
+        "price": 58000,
+        "protective": "50%",
+        "weight": "50%",
+        "colorImg": [
+            {
+                "charcoal": [
+                    "/images/airpod4/airpod4_common_charcoal.png"
+                ],
+                "pink": [
+                    "/images/airpod4/airpod4_common_pink.png"
+                ],
+                "skyblue": [
+                    "/images/airpod4/airpod4_common_skyblue.png"
+                ]
+            }
+        ],
+        "feature": [
+            {
+                "image": "/images/detail/podbounce/feature/1.png",
+                "desc": "2M 낙하 테스트 통과"
+            },
+            {
+                "image": "/images/detail/podbounce/feature/2.png",
+                "desc": "1 x MIL-STD-810G"
+            },
+            {
+                "image": "/images/detail/podbounce/feature/3.png",
+                "desc": "스크래치 방지 매트 피니시"
+            },
+            {
+                "image": "/images/detail/podbounce/feature/4.png",
+                "desc": "항균 소재 코팅"
+            },
+            {
+                "image": "/images/detail/podbounce/feature/5.png",
+                "desc": "CASETIFY 로고 카라비너"
+            },
+            {
+                "image": "/images/detail/podbounce/feature/6.png",
+                "desc": "Re/CASETiFY 프로그램을 통한 친환경적인 제조 방법"
+            }
+        ],
+        "info": [
+            {
+                "image": "/images/detail/podbounce/info/1.jpg",
+                "desc1": "바운스 케이스",
+                "desc2": "낙하 테스트를 통과한\n강력한 보호력의\n에어팟 케이스",
+                "desc3": "바운스 에어팟 케이스는 스크래치\n방지를 위한 매트 피니시로\n에어팟을 안전하게 보호합니다.\n군사 테스트를 거쳐 MIL-STD-810G\n기준을 달성하고, 최대 2m\n낙하에서도 안전합니다."
+            },
+            {
+                "image": "/images/detail/podbounce/info/2.jpg",
+                "desc1": "완벽한 맞춤 디자인",
+                "desc2": "여러분만의 바이브를\n표현해 보세요!",
+                "desc3": "다양한 디자인과 여러 커스텀 옵션을\n통하여 나만의 케이스를 만들 수도 있죠.\n케이스티파이 범퍼 링 그리고\n카라비너와 함께 모든 충격과\n위험으로부터 여러분의 에어팟을\n안전하게 보호하세요!"
+            }
+        ]
+    },
+    "airpodmax": {
+        "price": 70000,
+        "protective": "100%",
+        "weight": "75%",
+        "feature": [
+            {
+                "image": "/images/detail/airpodmax/feature/1.png",
+                "desc": "부드러운 촉감의\n프리미엄 실리콘"
+            },
+            {
+                "image": "/images/detail/airpodmax/feature/2.png",
+                "desc": "정밀한 설계로\n꼭 맞는 핏"
+            },
+            {
+                "image": "/images/detail/airpodmax/feature/3.png",
+                "desc": "손쉬운 버튼 사용"
+            },
+            {
+                "image": "/images/detail/airpodmax/feature/4.png",
+                "desc": "100% 재활용 패키지"
+            },
+            {
+                "image": "/images/detail/airpodmax/feature/5.png",
+                "desc": "더스트 프루프"
+            }
+        ],
+        "info": [
+            {
+                "image": "/images/detail/bounce/info/1.png",
+                "desc1": "바운스 케이스",
+                "desc2": "2023년 뉴욕 제품 디자인\n어워드에서 금상을 수상한\n케이스를 소개합니다!",
+                "desc3": "현수교에서 영감받은 바운스 코너 디자인.\nTesseLock™이 탑재되어, 6.5m 낙하\n테스트를 통과해, 미 군사 등급 6배에\n달하는 보호력을 제공합니다."
+            },
+            {
+                "image": "/images/detail/bounce/info/2.png",
+                "desc1": "강력한 보호력",
+                "desc2": "더 얇게, 더 가볍게, 여전히 강력하게",
+                "desc3": "5% 더 얇아진 디자인, 11% 더 가벼워진 무게, 그러나 여전히 튼튼한 설계.\n견고한 보호 기능은 물론, 슬림하고 스타일리시한 디자인을 완성합니다."
+            },
+            {
+                "image": "/images/detail/bounce/info/3.png",
+                "desc1": "완벽한 맞춤 디자인",
+                "desc2": "나만을 위한\n하나뿐인 케이스",
+                "desc3": "바운스 케이스로 표현하는\n나만의 색깔.\n물론, 일상 속 모험에서도\n언제나 안전하게 함께하세요."
+            }
+        ]
+    }
+}

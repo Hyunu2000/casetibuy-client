@@ -1,0 +1,104 @@
+.swiper-pagination-fraction,
+.swiper-pagination-custom,
+.swiper-horizontal > .swiper-pagination-bullets,
+.swiper-pagination-bullets.swiper-pagination-horizontal {
+  @apply bottom-0;
+}
+
+.swiper-slide {
+  @apply h-auto;
+}
+
+/**
+ * PageNation
+*/
+/* visual */
+.visual .swiper-pagination {
+  @apply bottom-0 flex justify-end gap-10 pb-40 pr-24 pt-30;
+}
+/* 기본 불릿 스타일 */
+.visual .swiper-pagination-bullet {
+  @apply inline-block w-12 h-12 transition-all duration-300 ease-in-out bg-white rounded-full opacity-100;
+}
+/* 활성화된 불릿 스타일 (길게) */
+.visual .swiper-pagination-bullet-active {
+  @apply w-48 h-12 transition-all duration-300 ease-in-out bg-white rounded-10;
+}
+
+/* common */
+/* 기본 불릿 스타일 */
+.swiper-pagination-bullet.custom-bullet {
+  @apply inline-block transition-all duration-300 ease-in-out rounded-full w-15 h-15;
+}
+/* 활성화된 불릿 스타일 (길게) */
+.swiper-pagination-bullet-active.custom-bullet {
+  @apply transition-all duration-300 ease-in-out w-50 h-15 bg-orange rounded-10;
+}
+
+/**
+ * Navigation
+*/
+/* collaborator */
+.collaborator .swiper-wrapper {
+  @apply p-32;
+}
+.collaborator .swiper-slide.swiper-slide-active {
+  margin: 0;
+}
+
+/* collaborator - button style */
+.swiper-button-prev,
+.swiper-button-next {
+  @apply px-40 bg-black rounded-full;
+  background-image: url("https://cdn-stamplib.casetify.com/cms/image/8d607132b5724f18485918646b165511.png");
+  background-position: center;
+  background-size: calc(100% - 50px); /* 좌우 20px씩 여백 */
+  background-repeat: no-repeat;
+
+  /* 강제로 height 적용 */
+  height: 55px !important;
+}
+.swiper-button-next {
+  transform: rotate(180deg);
+}
+.swiper-button-prev::after {
+  display: none;
+}
+.swiper-button-next::after {
+  display: none;
+}
+
+/* 기본 상태 - 전부 숨기기 */
+.swiper-button-prev,
+.swiper-button-next {
+  opacity: 0 !important;
+  pointer-events: none !important;
+  transition: opacity 0.3s ease;
+}
+
+/* 마우스 호버 시 전부 보이기 */
+.swiper:hover .swiper-button-prev,
+.swiper:hover .swiper-button-next {
+  opacity: 1 !important;
+  pointer-events: auto !important;
+}
+
+/* disabled + 호버 상태일 때 흐리게 */
+.swiper:hover .swiper-button-prev.swiper-button-disabled,
+.swiper:hover .swiper-button-next.swiper-button-disabled {
+  opacity: 0.3 !important;
+  pointer-events: none !important;
+}
+
+/* common */
+.swiper-container {
+  @apply overflow-visible;
+}
+.common > .swiper-container:last-child {
+  @apply pb-32;
+}
+
+/* navigation - button */
+.navigation-common {
+  @apply absolute right-0 flex justify-end gap-24 text-5xl text-white -translate-y-1/2 top-1/2;
+}

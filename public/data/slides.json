@@ -1,0 +1,155 @@
+{
+  "visualSlideImage": [
+    {
+      "pid": "7",
+      "label": "02",
+      "title": "디젤 + CASTIBUY",
+      "description": "당신의 기기를 스타일리쉬하게 보호하세요.",
+      "src": "/images/iphone16pro/collabo/iphone16p_visual_diesel_case_mirror_color_black.mp4",
+      "textBgColor": "blue",
+      "titleColor": "yellow",
+      "textColor": "white",
+      "iconColor": "white"
+    },
+    {
+      "pid": "9",
+      "label": "03",
+      "title": "신데렐라",
+      "description": "신데렐라의 희망, 친절, 아름다움의 메시지가 담긴 디자인을 만나보세요.",
+      "src": "/images/iphone16pro/collabo/iphone16p_visual_cinderella_case_mirror_color_black.jpg",
+      "textBgColor": "green",
+      "titleColor": "yellow",
+      "textColor": "white",
+      "iconColor": "white"
+    },
+    {
+      "pid": "18",
+      "label": "02",
+      "title": "칠가이",
+      "description": "떨어지면 어떠하리. 별로 신경 쓰지 않는 당신을 위한 케이스.",
+      "src": "/images/iphone16pro/collabo/iphone16p_visual_chillguy_case_ring_color_black.png",
+      "textBgColor": "blue",
+      "titleColor": "yellow",
+      "textColor": "white"
+    },
+    {
+      "pid": "22",
+      "label": "04",
+      "title": "치이카와",
+      "description": "치이카와 컬렉션이 여러분을 세상에서 가장 귀여운 모험으로 안내합니다.",
+      "src": "/images/iphone16pro/collabo/iphone16p_visual_chiikawa_case_impact_color_black.jpg",
+      "textBgColor": "pink",
+      "titleColor": "blue"
+    },
+    {
+      "pid": "4",
+      "label": "05",
+      "title": "톰과 제리 | CASTIBUY",
+      "description": "톰과 제리의 이야기를 기념하는 케이스티파이 컬렉션 속으로 여러분을 초대합니다.",
+      "src": "/images/iphone16pro/collabo/iphone16p_visual_tomandjerry_case_impact_color_black.jpg",
+      "textBgColor": "orange",
+      "titleColor": "yellow"
+    },
+    {
+      "pid": "17",
+      "label": "06",
+      "title": "메종 키츠네",
+      "description": "Maison Kitsuné",
+      "src": "/images/iphone16pro/collabo/iphone16p_visual_maisonkitsune_case_ring_color_black.png",
+      "textBgColor": "yellow",
+      "titleColor": "blue"
+    }
+  ],
+  "featuredCollection": [
+    {
+      "pid": "21",
+      "label": "01",
+      "labelStyle": "px-20 py-4 text-12 text-white bg-black rounded-20",
+      "title": "산리오캐릭터즈 - 쿠로미",
+      "image": "/images/iphone16pro/collabo/iphone16p_visual_kuromi_case_mimpact_color_black.jpg",
+      "btnText": "Shop Now",
+      "btnStyle": "py-12 px-20 text-20 rounded-full border",
+      "layout": "even",
+      "bgColor": "yellow",
+      "contentPadding": "py-16 px-32"
+    },
+    {
+      "pid": "7",
+      "label": "02",
+      "labelStyle": "px-20 py-4 text-12 text-white bg-black rounded-20",
+      "title": "디젤 + CASTIBUY",
+      "image": "/images/iphone16pro/collabo/iphone16p_visual_diesel_case_bounce_color_black.jpg",
+      "btnText": "Shop Now",
+      "btnStyle": "py-12 px-20 text-20 rounded-full border",
+      "layout": "even",
+      "bgColor": "blue",
+      "contentPadding": "py-16 px-32"
+    },
+    {
+      "pid": "4",
+      "label": "03",
+      "labelStyle": "px-20 py-4 text-12 text-white bg-black rounded-20",
+      "title": "톰과 제리",
+      "image": "/images/iphone16pro/collabo/iphone16p_visual_tomandjerry_case_impact_color_black.jpg",
+      "btnText": "Shop Now",
+      "btnStyle": "py-12 px-20 text-20 rounded-full border",
+      "layout": "odd",
+      "bgColor": "green",
+      "contentPadding": "py-16 px-32"
+    },
+    {
+      "pid": "22",
+      "label": "04",
+      "labelStyle": "px-20 py-4 text-12 text-white bg-black rounded-20",
+      "title": "치이카와",
+      "image": "/images/iphone16pro/collabo/iphone16p_visual_chiikawa_case_impact_color_black.jpg",
+      "btnText": "Shop Now",
+      "btnStyle": "py-12 px-20 text-20 rounded-full border",
+      "layout": "odd",
+      "bgColor": "pink",
+      "contentPadding": "py-16 px-32"
+    }
+  ],
+  "collaborator": [
+    {
+      "pid": "7",
+      "title": "Diesel",
+      "image": "/images/iphone16pro/collabo/iphone16p_diesel_case_ring_color_black.webp"
+    },
+    {
+      "pid": "9",
+      "title": "Cinderella",
+      "image": "/images/iphone16pro/collabo/iphone16p_cinderella_case_mirror_color_black.webp"
+    },
+    {
+      "pid": "4",
+      "title": "Tom and Jerry",
+      "image": "/images/iphone16pro/collabo/iphone16p_tomandjarry_case_mirror_color_black.webp"
+    },
+    {
+      "pid": "17",
+      "title": "Maison Kitsuné",
+      "image": "/images/iphone16pro/collabo/iphone16p_maisonkitsune_case_ring_color_black.webp"
+    },
+    {
+      "pid": "18",
+      "title": "Chill Guy",
+      "image": "/images/iphone16pro/collabo/iphone16p_chillguy_case_mirror_color_black.webp"
+    },
+    {
+      "pid": "22",
+      "title": "Chiikawa",
+      "image": "/images/iphone16pro/collabo/iphone16p_chiikawa_case_mirror_color_black.webp"
+    },
+    {
+      "pid": "25",
+      "title": "Hello Kitty",
+      "image": "/images/iphone16pro/collabo/iphone16p_hellokitty_case_bounce_color_black.webp"
+    },
+    {
+      "pid": "21",
+      "title": "Kuromi",
+      "image": "/images/iphone16pro/collabo/iphone16p_kuromi_case_bounce_color_black.webp"
+    }
+  ]
+}

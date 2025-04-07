@@ -1,0 +1,69 @@
+[
+  {
+    "category": "케이스티파이를 팔로우 해주세요!",
+    "items": [
+      "https://cdn-stamplib.casetify.com/cms/image/6fea4a9cba068ed320ece82263700cac.png",
+      "https://cdn-stamplib.casetify.com/cms/image/de5af09f4449c316555d9ee450fc0bb7.png",
+      "https://cdn-stamplib.casetify.com/cms/image/3727a964c66913cf6894c9b2d80c2558.png",
+      "https://cdn-stamplib.casetify.com/cms/image/d75c2e37ff0a7ffb724f76af0ba440ec.png",
+      "https://cdn-stamplib.casetify.com/cms/image/d21f2df115b0909d1b892a2051dbb785.png"
+    ]
+  },
+  {
+    "category": "CASETIFY CLUB",
+    "items": [
+      "Co-Lab 모바일 앱 다운받기",
+      "케이스티파이 정품 인증",
+      "할인 코드 & 쿠폰",
+      "기프트 카드",
+      "고객 후기",
+      "CASETiFY Travel"
+    ]
+  },
+  {
+    "category": "기종",
+    "items": [
+      {
+        "brand": "Apple",
+        "models": [
+          "아이폰 16 Pro Max",
+          "아이폰 16 Pro",
+          "아이폰 16 Plus",
+          "아이폰 16"
+        ]
+      },
+      {
+        "brand": "삼성",
+        "models": [
+          "Galaxy S25 Ultra",
+          "Galaxy S25",
+          "Galaxy S25+",
+          "Galaxy Z Flip6",
+          "Galaxy Z Fold6"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "ABOUT CASETIFY",
+    "items": [
+      "브랜드 소개",
+      "#CASETiFYSustainability",
+      "#CASETiFYCares",
+      "언론 보도",
+      "채용정보",
+      "매장 방문하기"
+    ]
+  },
+  {
+    "category": "문의하기",
+    "items": [
+      "FAQs",
+      "배송",
+      "반품 및 교환",
+      "100% 만족 보장",
+      "주문 현황",
+      "문의하기"
+    ]
+  }
+]
