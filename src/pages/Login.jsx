@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from "react";
+import { useNavigate } from "react-router-dom";
+import { AuthContext } from "../context/AuthContext.js";
 import SignUp from "./SignUp.jsx";
 import { useLogin } from "../hooks/useLogin.js";
 import InputField from "../component/InputField.jsx";
@@ -26,6 +28,15 @@ export default function Login() {
     "/images/login/kuromi.mp4",
   ];
   const [currentVideoIndex, setCurrentVideoIndex] = useState(0);
+
+  const { isLoggedIn } = useContext(AuthContext);
+  const navigate = useNavigate();
+
+  useEffect(() => {
+    if (isLoggedIn) {
+      navigate("/", { replace: true }); // ✅ 로그인 상태면 홈으로 리다이렉트
+    }
+  }, [isLoggedIn, navigate]);
 
   useEffect(() => {
     const handleTransition = () => {
