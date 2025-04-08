@@ -15,7 +15,7 @@ export default function DeleteAccount() {
     const handleConfirmDelete = async () => {
         try {
             const token = localStorage.getItem("token");
-            const res = await axios.delete("http://43.200.171.0:9000/member/delete", {
+            const res = await axios.delete("http://3.34.4.126:9000/member/delete", {
                 headers: {
                     Authorization: `Bearer ${token}`,
                 },
