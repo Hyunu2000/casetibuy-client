@@ -8,7 +8,7 @@ export default function useOrder() {
     const id = localStorage.getItem("user_id");
     if (!id) return; // 사용자 ID가 없으면 요청하지 않음
     try {
-      const result = await axios.post("http://43.200.171.0:9000/order/orderlist", {
+      const result = await axios.post("http://3.34.4.126:9000/order/orderlist", {
         memberId: id,
       });
       setOrderList(result.data);

@@ -12,7 +12,7 @@ export default function useProduct(initialProducts) {
 
   const getProductList = useCallback(async () => {
     try {
-      const res = await axios.get("http://43.200.171.0:9000/product/all");
+      const res = await axios.get("http://3.34.4.126:9000/product/all");
       setProductList(res.data || []);
       return res.data;
     } catch (error) {
@@ -42,7 +42,7 @@ export default function useProduct(initialProducts) {
 
   const getSearch = useCallback(async (search) => {
     try {
-      const res = await axios.get("http://43.200.171.0:9000/product/search", {
+      const res = await axios.get("http://3.34.4.126:9000/product/search", {
         params: { search } // 또는 params: { search: search }
       });
       setProductList(res.data || []);

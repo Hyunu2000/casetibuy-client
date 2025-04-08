@@ -76,7 +76,7 @@ export const useSlide = () => {
         const { caseType, color } = parseCaseAndColor(item.repImage);
 
         const productData = {
-          image: `http://43.200.171.0:9000/${item.repImage}`,
+          image: `http://3.34.4.126:9000/${item.repImage}`,
           pid: item.pid,
           title: item.name,
           btnText: "Buy Now",

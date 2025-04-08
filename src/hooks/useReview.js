@@ -13,7 +13,7 @@ export default function useReview() {
   const { pid } = useParams();
 
   const getReviewList = useCallback(async () => {
-    const result = await axios.get("http://43.200.171.0:9000/review/list", {
+    const result = await axios.get("http://3.34.4.126:9000/review/list", {
       params: { pid: pid },
       t: new Date().getTime() // 캐시 우회를 위한 타임스탬프 추가
     });
@@ -60,7 +60,7 @@ export default function useReview() {
       comment: comment         // 리뷰 내용
     };
     axios
-      .post('http://43.200.171.0:9000/review/new', sendData)
+      .post('http://3.34.4.126:9000/review/new', sendData)
       .then(async res => {
         if (res.data.result_rows === 1) {
           alert("리뷰가 등록되었습니다.");

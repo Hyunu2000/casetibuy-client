@@ -67,7 +67,7 @@ export default function NewProduct() {
       repImage: selectedRep
     };
 
-    axios.post('http://43.200.171.0:9000/product/new', sendData)
+    axios.post('http://3.34.4.126:9000/product/new', sendData)
       .then(res => {
         if (res.data.result_rows === 1) {
           alert("상품이 등록되었습니다.");
@@ -272,7 +272,7 @@ export default function NewProduct() {
                 {previewList.map((filePath, index) => (
                   <div key={filePath} style={{ display: 'inline-block', margin: '5px' }}>
                     <img
-                      src={`http://43.200.171.0:9000/${filePath}`}
+                      src={`http://3.34.4.126:9000/${filePath}`}
                       alt="preview"
                       style={{ width: '100px', height: '100px', marginBottom: '5px' }}
                     />

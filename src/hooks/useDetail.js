@@ -44,7 +44,7 @@ export function useDetail() {
   const { pid } = useParams();
   const getDetail = useCallback(async () => {
     try {
-      const res = await axios.post("http://43.200.171.0:9000/product/detail", {
+      const res = await axios.post("http://3.34.4.126:9000/product/detail", {
         pid: pid,
       });
       setDetail(res.data || []);
